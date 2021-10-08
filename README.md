@@ -3,7 +3,7 @@
 ## Its_me_DEVANANDH
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src=https://www.linkpicture.com/q/20211008_195807.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+  [![Amalser](<img src=https://www.linkpicture.com/q/20211008_195807.jpg>
  https://github.com/Devanandhser/Amalser_v1 |  
 ----|
 [Its_me_DEVANANDH](https://github.com/Devanandhser/Amalser_v1)  |
